@@ -1,8 +1,7 @@
 # Atliq_Hardware-Sales_insights
 
-## Problem Statement:
-- AtliQ Hardware is a Computer Hardware and Peripheral Manufacturer with regional offices all across the country. The sales recently have been declining and the sales director is having a hard time in tracking the reasons for the decline in sales.
-- The sales director needs simple insights presented in the form of an Interactive dashboard from data.
+## Objective:
+Atliq Hardware is a Computer Hardware and Peripheral Manufacturer with regional offices all across the country. The sales recently have been declining and the sales director is having a hard time in tracking the reasons for the decline in sales. The sales director needs simple insights presented in the form of an Interactive dashboard from data.
 
 ## Project Overview:
 https://public.tableau.com/app/profile/zia.moinuddin.shaikh/viz/sales_insights-Atliq_Hardware/Dashboard1
